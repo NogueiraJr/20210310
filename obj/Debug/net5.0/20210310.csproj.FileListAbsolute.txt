@@ -1,0 +1,15 @@
+/Users/Nogueira/Projects/lab/20210310/bin/Debug/net5.0/20210310.deps.json
+/Users/Nogueira/Projects/lab/20210310/bin/Debug/net5.0/20210310.runtimeconfig.json
+/Users/Nogueira/Projects/lab/20210310/bin/Debug/net5.0/20210310.runtimeconfig.dev.json
+/Users/Nogueira/Projects/lab/20210310/bin/Debug/net5.0/20210310.dll
+/Users/Nogueira/Projects/lab/20210310/bin/Debug/net5.0/ref/20210310.dll
+/Users/Nogueira/Projects/lab/20210310/bin/Debug/net5.0/20210310.pdb
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/20210310.csprojAssemblyReference.cache
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/20210310.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/20210310.AssemblyInfoInputs.cache
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/20210310.AssemblyInfo.cs
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/20210310.csproj.CoreCompileInputs.cache
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/20210310.dll
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/ref/20210310.dll
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/20210310.pdb
+/Users/Nogueira/Projects/lab/20210310/obj/Debug/net5.0/20210310.genruntimeconfig.cache
